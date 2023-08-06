@@ -16,6 +16,7 @@ urls=(
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
   https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_38.txt
 )
 
 # loop through the urls and download each file with curl
