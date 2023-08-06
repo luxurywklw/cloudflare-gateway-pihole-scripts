@@ -13,6 +13,9 @@ urls=(
   https://adaway.org/hosts.txt
   https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
   https://raw.githubusercontent.com/bigdargon/hostsVN/master/option/domain.txt
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_1.txt
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_2.txt
+  https://adguardteam.github.io/HostlistsRegistry/assets/filter_16.txt
 )
 
 # loop through the urls and download each file with curl
